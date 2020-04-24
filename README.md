@@ -1,7 +1,7 @@
 
 目的在于交流学习。
 
-[中文新闻文本标题分类](https://aistudio.baidu.com/aistudio/competition/detail/10)
+适用于[中文新闻文本标题分类](https://aistudio.baidu.com/aistudio/competition/detail/10)。
 
 ## 1. 方法
 
