@@ -3,6 +3,8 @@
 
 适用于[中文新闻文本标题分类](https://aistudio.baidu.com/aistudio/competition/detail/10)。
 
+关于课程和比赛的其他心得体会：[山竹小果 BLOG](https://www.cnblogs.com/shona/p/12767622.html)
+
 ## 1. 方法
 
 a. 使用[PaddlePalm](https://github.com/PaddlePaddle/PALM)框架搭建任务；
