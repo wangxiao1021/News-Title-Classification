@@ -1,9 +1,9 @@
 
 目的在于交流学习。
 
-##代码说明：
+[中文新闻文本标题分类](https://aistudio.baidu.com/aistudio/competition/detail/10)
 
-###1. 方法
+## 1. 方法
 
 a. 使用[PaddlePalm](https://github.com/PaddlePaddle/PALM)框架搭建任务；
 
@@ -46,7 +46,7 @@ e. 规则提取：
 
 将符合规则的样本强制分到对应类别，可以带来一定提升。
     
-##2. 代码结构
+## 2. 代码结构
 
 a. paddlepalm：框架
 
